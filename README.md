@@ -1,5 +1,8 @@
 # Gestion_porras
 
+[![Build Status](https://travis-ci.org/cr13/gestion_porras.svg?branch=main)](https://travis-ci.org/cr13/gestion_porras)
+
+
 En este repositorio se va a crear una aplicación para gestionar la porra (Fútbol, baloncesto ...).
 
 Además se va a realizar una serie de test.
