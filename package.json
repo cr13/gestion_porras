@@ -1,0 +1,33 @@
+{
+  "name": "gestion_porras",
+  "description": "Porras de eventos deportivos",
+  "version": "1.0.0",
+  "main": "./test_assert.js",
+  "scripts": {
+    "start": "node test_assert.js",
+    "test": "mocha ./test/test_porra.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr13/gestion_porras.git"
+  },
+  "keywords": [
+    "CC",
+    "tema2",
+    "ejercicio4"
+  ],
+  "author": "Cristóbal Rodríguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cr13/gestion_porras/issues"
+  },
+  "homepage": "https://github.com/cr13/gestion_porras#readme",
+  "dependencies": {
+    "sqlite": "^4.0.15"
+  },
+  "devDependencies": {
+    "docco": "^0.8.0",
+    "grunt-docco": "^0.5.0",
+    "mocha": "^8.2.0"
+  }
+}
